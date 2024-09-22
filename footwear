@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS Project</title>
+        <link rel="icon" href="css.png">
+    </head>
+    <body bgcolor="#c7eacb" style="background-blend-mode: color-burn; margin: 0;">
+        <center>
+            <h1 style="color: #1e21c7; height: 220px; width: 400px;" >Nirmal Fashion Wear <img src="logo.jpg" style="height: 200px; width: 300px;"></h1> 
+            <p>
+                <h3 style="color: blue;">Good Quality | Affordable Prize | 20% off on Every Purchase!</h3>
+                <h3 style="color: blueviolet;">
+                    Our product is available at both local stores and on Flipkart, making it easy to purchase. Enjoy seamless shopping with competitive pricing and quick delivery options. Check out the latest features and customer reviews to make an informed decision. Experience quality and convenience with every purchase!
+                </h3>
+                <p>⬇️ Here are the links to our products on Flipkart. Check them out for details and to make your purchase! ⬇️</p>
+            </p>
+        
+
+        </center>
+        <hr>
+        <div style="text-align: center">
+         <input type="search" placeholder="Search" style="width:60%;margin-left: 10px; padding: 10px;display: inline-block;">
+         <input type="submit" value="Search" style="padding: 10px; margin-left: 10px; display:inline">
+         <ul>
+            <li style="cursor:pointer;display: inline;margin-right: 30px;"><a href="Index.html">Home</a></li>
+            <li style="display: inline;">|</li>
+            <li style="display: inline;cursor : pointer;margin-left: 30px;"><a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRrlzqHtVhqZCWWNZMtnrqsFlDwxXSHngHRvDFzSfhvRBFJglNFFSKVljQCdDSWbjcdcWFb">Contact</a></li>
+         </ul>
+        </div>
+        <p>
+            <h2 style="color: black;background-color: aqua;">
+                Men's Footwear
+            </h2>
+            <table>
+                <tr>
+                    <td><img src="mens formal.jpeg" style="height: 400px;width: 490px;"></td> 
+                  <td><img src="mens casual.jpeg" style="height: 400px;width: 490px;"></td>
+                 <td><img src="men slippers.jpeg" style="height: 400px;width: 490px;"></td> 
+                </tr>
+                <tr>
+                    <td><center><a href="https://www.flipkart.com/search?q=mens+formal+shoes&sid=osp%2Ccil%2Cssb&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_11_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_11_na_na_na&as-pos=1&as-type=RECENT&suggestionId=mens+formal+shoes%7CMen%E2%80%99s+Formal+Shoes&requestId=02a19e03-83b4-46fd-ba4d-4a360a4f7ddc&as-backfill=on" style="color: white; background-color: black;padding: 10px;">Formal Shoe Collection</a></center></td>
+                    <td><center><a href="https://www.flipkart.com/search?q=mens%20casual%20shoes&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off" style="color: white; background-color: black;padding: 10px;">Casual Shoe Collection</a></center></td>
+                    <td><center><a href="https://www.flipkart.com/search?q=mens%20slippers&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off" style="color: white; background-color: black;padding: 10px;">Slippers Collection</a></center></td>
+                </tr>
+            
+
+
+            </table>
+            
+            
+            <h2 style="color: black;background-color: aqua;">
+                Ladies Footwear
+            </h2>
+            <table>
+                <tr>
+                    <td><img src="womens formal.jpeg" style="height: 400px; width: 490px;"></td>
+                    <td><img src="womens csual.jpg" style="height: 400px; width: 490px;"></td>
+                    <td><img src="women slipper.jpeg" style="height: 400px; width: 490px;"></td>
+                </tr>
+                <tr>
+                  <td><center><a href="https://www.flipkart.com/search?q=women+formal+shoes&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_4_13_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_4_13_na_na_na&as-pos=4&as-type=RECENT&suggestionId=women+formal+shoes&requestId=5438b835-9dbc-4c5e-b55b-5153952de5f9&as-searchtext=women%20formal%20" style="color: white; background-color: black;padding: 10px">Formal Shoe Collection</a></center></td>
+                    <td><center><a href="https://www.flipkart.com/search?q=women%20casual%20shoes&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off" style="color: white; background-color: black;padding: 10px">Casual Shoe Collection</a></center></td>
+                    <td><center><a href="https://www.flipkart.com/search?q=women+slippers+flite&sid=osp%2Ciko%2Ciz7&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_14_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_14_na_na_na&as-pos=1&as-type=RECENT&suggestionId=women+slippers+flite%7CWomen%27s+Slippers+%26+Flip+Flops&requestId=371f5db5-09ce-4287-a634-45a5066d1d1f&as-searchtext=women%20slippers" style="color: white; background-color: black;padding: 10px">Slippers Collection</a></center></td>
+                </tr>
+            </table>
+            <h2 style="color: black; background-color: aqua;">Childrens Collection</h2>
+            <table>
+                <tr>
+                    <td><img src="childrens formal.jpg" style="height: 400px; width: 490px;"></td>
+                    <td><img src="childrens casual.jpg" style="height: 400px; width: 490px;"></td>
+                    <td><img src="childrens slipper.jpg" style="height: 400px;width: 490px;"></td>
+                </tr>
+                <tr>
+                    <td><center><a href="https://www.flipkart.com/search?q=5%20age%20childs%20formal%20shoe&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off" style="color: white;background-color: black;padding: 10px">Formals</a></center></td>
+                    <td><center><a href="https://www.flipkart.com/search?q=5%20age%20childs%20casual%20shoe&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off" style="color: white; background-color: black;padding: 10px">Casuals</a></center></td>
+                    <td><center><a href="https://www.flipkart.com/search?q=5%20age%20childs%20slipper&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off" style="color: white; background-color: black;padding: 10px">Slippers</a></center></td>
+                </tr>
+            </table>
+        </p>
+
+        <hr>
+        <center>
+            <h2 style="color: #1e21c7;">Our manufacturing video is below. Check it out to see our quality processes in action!</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/opYvvBHEGks?si=QXLNLNihsYfhmO9C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <hr>
+        <center>
+            <h3 style="color: blue;"><a href="https://maps.app.goo.gl/WdkaKsVLXPiGvgsJA">No 31 , 100 Feet road , Velachery , Chennai-600042</a></h3>
+            <p style="color: brown;"> For enquiry - <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRrlzqHtVhqZCWWNZMtnrqsFlDwxXSHngHRvDFzSfhvRBFJglNFFSKVljQCdDSWbjcdcWFb">nirmalfashionwear143@gmail.com</a> </p>
+            <p style="color:white;background-color: black; display:  block; margin: 0;padding: 10px; font-size: 14px;"> Copyrights &copy;2024 Nirmal Fashion Wear. All Rights Reserved.</p>
+        </center>
+    </body>
+
+
+</html>
